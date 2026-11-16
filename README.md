@@ -8,7 +8,7 @@ Simon memory game in SystemVerilog. Block diagram: `docs/architecture.png` (TODO
 |---|---|---|---|
 | timer, btn_input, tb_utils.svh | Joshua | tb_timer, tb_btn_input | WIP |
 | lfsr, seq_mem | Aaryan | tb_lfsr, tb_seq_mem | WIP |
-| bin2bcd, ssdec | Noah | tb_bin2bcd, tb_ssdec | WIP |
+| bin2bcd, ssdec, score_display | Noah | tb_bin2bcd, tb_ssdec, tb_score_display | TB passing |
 | score_keep | Noah or Rutam (decide now) | tb_score_keep | WIP |
 | simon_fsm, top, golden test | Rutam | tb_simon_fsm, tb_top_golden | WIP |
 
