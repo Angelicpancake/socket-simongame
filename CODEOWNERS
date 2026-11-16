@@ -1,0 +1,24 @@
+# Replace @handle placeholders with real GitHub usernames.
+# Owners: Joshua = @joshua-handle, Aaryan = @aaryan-handle, Noah = @noah-handle, Rutam = @rutam-handle
+/rtl/timer.sv            @joshua-handle
+/rtl/btn_input.sv        @joshua-handle
+/tb/tb_utils.svh         @joshua-handle
+/tb/tb_timer.sv          @joshua-handle
+/tb/tb_btn_input.sv      @joshua-handle
+/rtl/lfsr.sv             @aaryan-handle
+/rtl/seq_mem.sv          @aaryan-handle
+/tb/tb_lfsr.sv           @aaryan-handle
+/tb/tb_seq_mem.sv        @aaryan-handle
+/rtl/bin2bcd.sv          @noah-handle
+/rtl/ssdec.sv            @noah-handle
+/tb/tb_bin2bcd.sv        @noah-handle
+/tb/tb_ssdec.sv          @noah-handle
+# score_keep: Noah or Rutam (decide)
+/rtl/score_keep.sv       @noah-handle
+/tb/tb_score_keep.sv     @noah-handle
+/rtl/simon_fsm.sv        @rutam-handle
+/rtl/top.sv              @rutam-handle
+/rtl/simon_pkg.sv        @rutam-handle
+/tb/tb_simon_fsm.sv      @rutam-handle
+/tb/tb_top_golden.sv     @rutam-handle
+/docs/                   @rutam-handle
